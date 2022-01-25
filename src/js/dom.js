@@ -106,3 +106,11 @@ inputOne.addEventListener('keyup', (e) => {
 	})
 
 })
+
+
+//FIXME error when input is empty
+//TODO show a list of the film in select item and when you click it then i added automaticly
+//TODO create the functionality of the seconde input
+//TODO show the winner movie by applying the green color to all component and the lose movie red color
+//TODO create a button to restart the game
+//TODO change it to PWA : use inject manifest
