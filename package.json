@@ -11,6 +11,11 @@
     "postcss-load-config": "^3.1.1",
     "postcss-preset-env": "^7.2.3",
     "vite": "^2.7.2",
-    "vite-plugin-html": "^2.1.2"
+    "vite-plugin-html": "^2.1.2",
+    "vite-plugin-pwa": "^0.11.13",
+    "workbox-build": "^6.4.2",
+    "workbox-core": "^6.4.2",
+    "workbox-routing": "^6.4.2",
+    "workbox-strategies": "^6.4.2"
   }
 }
