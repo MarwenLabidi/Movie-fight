@@ -53,6 +53,9 @@ img {
 	.section-1-1 {
 		text-align: center;
 	}
+	.BATTLE{
+		margin:0 40%;
+	}
 }
 
 .section-1-2 {
@@ -101,4 +104,20 @@ img {
 	padding: 10px;
 	border-radius: 10px;
 	box-shadow: 0px 0px 60px 1px black;
+}
+.BATTLE{
+	background-color: var(--clr_gray);
+	height:50px;
+	width:80px;
+	align-self: center;
+	border-radius: 10px;
+	font-weight: bold;
+}
+
+
+.win{
+	background-color:var(--clr_green);
+}
+.lose{
+	background-color:var(--clr_red)
 }
